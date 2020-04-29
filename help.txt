@@ -1,1 +1,1 @@
-till lesson-17 all basic features are covered
+from lesson-29 to 34 ( ninja polls project with store)
